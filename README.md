@@ -2,9 +2,9 @@
 A game for the Spring 2020 CMPT 276 D100 project.
 
 ## Contributers
-Nicholas Tan
-Daniel Spooner
-Yuxi Hu
+- Nicholas Tan
+- Daniel Spooner
+- Yuxi Hu
 
 ### Installation
 From the base directory, type:
