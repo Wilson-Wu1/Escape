@@ -1,7 +1,7 @@
 # Escape
 A game for the Spring 2020 CMPT 276 D100 project.
 
-## Contributers
+## Contributors
 - Nicholas Tan
 - Daniel Spooner
 - Yuxi Hu
