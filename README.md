@@ -1,6 +1,11 @@
 # Escape
 A game for the Spring 2020 CMPT 276 D100 project.
 
+## Contributers
+Nicholas Tan
+Daniel Spooner
+Yuxi Hu
+
 ### Installation
 From the base directory, type:
 - `mvn package` to compile, test, and package the program to `\target\Escape-1.0.jar`
